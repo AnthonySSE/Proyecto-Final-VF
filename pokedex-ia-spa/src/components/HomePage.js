@@ -10,7 +10,7 @@ export class HomePage {
         page.innerHTML = `
             <section class="gradient-bg text-white py-20">
                 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-                    <h1 class="text-5xl md:text-6xl font-bold mb-6">Pokédx IA</h1>
+                    <h1 class="text-5xl md:text-6xl font-bold mb-6">Pokédex + IA</h1>
                     <p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
                         Explora el mundo Pokémon con tecnología de inteligencia artificial. 
                         Descubre, analiza y aprende sobre tus Pokémon favoritos.

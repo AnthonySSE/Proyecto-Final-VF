@@ -19,7 +19,7 @@ export class Header {
                             <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3">
                             <img src='https://cdn-icons-png.flaticon.com/512/188/188987.png'>
                             </div>
-                            <h1 class="text-white font-bold text-xl">Pokédx IA</h1>
+                            <h1 class="text-white font-bold text-xl">Pokédex + IA</h1>
                         </div>
                     </div>
                     
